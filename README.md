@@ -6,3 +6,5 @@
 
 #### This project was implemented end-to-end with deployment in Heroku PAAS using Flask framework. One can interact with the model using the link given below -
 https://nlp-drug-review-classification.herokuapp.com/?
+
+#### Note: When you access the link, please be patient for few seconds for server to initialize the app. Refresh after few seconds to use the app :)
